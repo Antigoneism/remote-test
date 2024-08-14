@@ -1,0 +1,2 @@
+在.ssh文件下打开git输入：
+ssh -keygen -t rsa
